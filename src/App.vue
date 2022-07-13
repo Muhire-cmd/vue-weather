@@ -19,8 +19,7 @@
     <div class="weather-box">
       <div class="temp">9°c</div>
       <div class="weather">Rain</div>
-      <div class="weather"></div>
-      <div class="minute"></div>
+    
 
     </div>
   </div>
